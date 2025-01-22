@@ -1,5 +1,9 @@
 # Wild Fire
 
+<div align="center">
+  <img src="animation/wildfire.gif" width=400><img src="animation/wildfire2.gif" width=400>
+</div>
+
 ## Heat Equation
 
 Solve the heat equation of the following form using the Crank-Nicolson scheme:
