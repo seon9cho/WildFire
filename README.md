@@ -1,7 +1,5 @@
 # Wild Fire
 
-![](animation/seong/wildfire.mp4)
-
 ## Heat Equation
 
 Solve the heat equation of the following form using the Crank-Nicolson scheme:
