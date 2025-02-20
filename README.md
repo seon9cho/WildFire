@@ -1,4 +1,4 @@
-# Wild Fire
+# Wildfire Modeling
 
 <div align="center">
   <img src="animation/wildfire.gif" width=400><img src="animation/wildfire2.gif" width=400>
